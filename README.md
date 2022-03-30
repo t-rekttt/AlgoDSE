@@ -1,7 +1,7 @@
 # AlgoDSE
 AlgoDSE - Array
 1. Tạo tài khoản trên Github.com
-2. Tạo repository trên Github và đặt tên là AlgoDSE để chế độ public
+2. Tạo repository trên Github và đặt tên là AlgoDSE để chế độ public. Hoặc bạn có thể fork repository của khóa học về channel và commit code trên đó.
 3. Tạo thư mục Array
 4. Code các bài tập trên bằng ngôn ngữ thế mạnh của bạn và push lên Github 
 5. Bài tập:
