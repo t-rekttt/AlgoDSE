@@ -10,7 +10,7 @@ https://leetcode.com/problems/minimum-window-substring/
 5.2.Max Consecutive Ones III
 https://leetcode.com/problems/max-consecutive-ones-iii/
 5.3. Longest Substring with At Most K Distinct Characters
-https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+https://www.lintcode.com/problem/386/
 5.4. Longest Repeating Character Replacement
 https://leetcode.com/problems/longest-repeating-character-replacement/
 6. Post Github repository của bạn trên Discord channel - Array
