@@ -13,4 +13,5 @@ https://leetcode.com/problems/max-consecutive-ones-iii/
 https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 5.4. Longest Repeating Character Replacement
 https://leetcode.com/problems/longest-repeating-character-replacement/
+6. Post Github repository của bạn trên Discord channel - Array
 
